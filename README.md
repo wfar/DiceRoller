@@ -1,0 +1,2 @@
+# DiceRoller
+Dice roll simulator
